@@ -1,0 +1,9 @@
+body .title {
+  color: #00a8e6;
+}
+body .title .firstWord {
+  color: red;
+}
+body .main {
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+}
